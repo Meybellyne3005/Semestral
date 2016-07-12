@@ -1,0 +1,33 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 89: expected statement.
+    asesino = 'murderer(Burt).'
+            ^
+
+File "game/script.rpy", line 95: expected statement.
+    asesino = 'murderer(Carl).'
+            ^
+
+File "game/script.rpy", line 101: expected statement.
+    asesino = 'murderer(Burt).'
+            ^
+
+File "game/script.rpy", line 111: expected statement.
+    asesino = 'murderer(Art).'
+            ^
+
+File "game/script.rpy", line 117: expected statement.
+    asesino = 'murderer(Carl).'
+            ^
+
+File "game/script.rpy", line 123: expected statement.
+    asesino = 'murderer(Art).'
+            ^
+
+File "game/script.rpy", line 130: expected statement.
+    asesino = 'murderer(Burt).'
+            ^
+
+Ren'Py Version: Ren'Py 6.17.6.512
